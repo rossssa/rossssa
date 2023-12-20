@@ -1,3 +1,4 @@
+### Hi there 👋
 
 <!--
 **rossssa/rossssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,13 +56,13 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 😎 About Me 😎</h3>
 
-  <p style="text-align: center;">
-    <strong>👤 2021 코딩 유일중앙동아리 COMA 운영진</strong><br>
-    👤 <strong>2022 전공학회 셈틀쟁이 서기</strong><br>
-    👤 <strong>2022 알고리즘 소모임 ALCUK</strong><br>
-    👤 <strong>2022 UMC 3rd Node.js 파트장</strong><br>
-    👤 <strong>2023 전공학회 셈틀쟁이 부회장</strong><br>
-    👤 <strong>2023 UMC 4th SpringBoot</strong><br>
-    👤 <strong>2023 멋쟁이 사자처럼 SpringBoot</strong><br>
-    👤 <strong>2023 GDSC SpringBoot</strong>
-  </p>
+  <p align="center">
+  <strong>👤 2021 코딩 유일중앙동아리 COMA 운영진</strong><br>
+  👤 <strong>2022 전공학회 셈틀쟁이 서기</strong><br>
+  👤 <strong>2022 알고리즘 소모임 ALCUK</strong><br>
+  👤 <strong>2022 UMC 3rd Node.js 파트장</strong><br>
+  👤 <strong>2023 전공학회 셈틀쟁이 부회장</strong><br>
+  👤 <strong>2023 UMC 4th SpringBoot</strong><br>
+  👤 <strong>2023 멋쟁이 사자처럼 SpringBoot</strong><br>
+  👤 <strong>2023 GDSC SpringBoot</strong>
+</p>
